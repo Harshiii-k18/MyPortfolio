@@ -1,0 +1,60 @@
+body{
+    margin: 0%;
+    
+    
+}
+
+.mail{
+    margin-left: 330px;
+    margin-top: 40px;
+}
+.content{
+    margin-left: 330px;
+    margin-top: 100px;
+}
+.circle{
+    width: 180px;
+    height: 180px;
+    -webkit-border-radius:25px;
+    -moz-border-radius:25px;
+    border-radius: 50%;
+    background-color: darkblue;
+    position:relative;
+    margin-left: 920px;
+    margin-top: -170px;
+   
+    
+}
+img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 860px;
+    margin-top: -220px;
+    position: absolute;
+    }
+
+
+.education{
+    margin-left: 420px;
+    margin-top: 100px;
+}
+.project{
+    margin-left: 610px;
+    margin-top: -48px;
+    
+}
+.interest{
+    margin-left: 780px;
+    margin-top: -47px;
+    
+}
+.about{
+    margin-left: 940px;
+    margin-top: -47px;
+}
+i{
+    color: black;
+    font-size: 15px;
+}
